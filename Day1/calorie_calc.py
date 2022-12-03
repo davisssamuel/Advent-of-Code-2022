@@ -1,5 +1,4 @@
 # Part 1
-index = 0
 total_calories = list()
 with open("input.txt") as infile:
     data = infile.readlines()
